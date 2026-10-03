@@ -1,0 +1,6 @@
+{
+  "name": "ChronoGraph AI",
+  "description": "Temporal Graph Memory Engine and Context Drift Analyzer for agent execution logs and unstructured histories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
